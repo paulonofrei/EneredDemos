@@ -19,6 +19,7 @@
         <module>DesignPatterns-Factory</module>
         <module>JavaBasics</module>
         <module>JavaOOPDemo1-Clase</module>
+        <module>java010</module>
     </modules>
 
     <properties>
